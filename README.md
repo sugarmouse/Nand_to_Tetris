@@ -8,19 +8,19 @@
 
 ### Part 1
 
--[ ] Week1
--[ ] Week2
--[ ] Week3
--[ ] Week4
--[ ] Week5
--[ ] Week6
+- [ ] Week1
+- [ ] Week2
+- [ ] Week3
+- [ ] Week4
+- [ ] Week5
+- [ ] Week6
 
 ### Part 2
 
--[ ] Week1
--[ ] Week2
--[ ] Week3
--[ ] Week4
--[ ] Week5
--[ ] Week6
--[ ] Week7
+- [ ] Week1
+- [ ] Week2
+- [ ] Week3
+- [ ] Week4
+- [ ] Week5
+- [ ] Week6
+- [ ] Week7
