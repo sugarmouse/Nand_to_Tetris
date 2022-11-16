@@ -9,7 +9,7 @@
 ### Part 1
 
 - [x] Week1
-- [ ] Week2
+- [x] Week2
 - [ ] Week3
 - [ ] Week4
 - [ ] Week5
